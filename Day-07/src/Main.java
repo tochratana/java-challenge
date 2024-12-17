@@ -1,5 +1,8 @@
 // Create Object or Instance create
 // CRUD operation
+// Constructor use for create Object, and it has two constructor
+// - Default Constructor
+// - Parameterized Constructor
 
 
 
