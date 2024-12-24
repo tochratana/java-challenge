@@ -67,8 +67,8 @@ public class BankAccount {
         System.out.println("Account Holder : " + bankAccount.getAccountHolder());
         System.out.println("Account Number : " + bankAccount.getAccountNumber());
         System.out.printf("Balance : %.2f \n", bankAccount.getBalances());
-        System.out.println("Deposited : " + deposit + "in account " + bankAccount.accountNumber + ".New balance : " + bankAccount.deposit(deposit));
-        System.out.println("Withdrew : " + withdraw + "from account " + bankAccount.accountNumber + ".New balance : " + bankAccount.withDraw(withdraw));
+        System.out.println("Deposited : " + deposit + " in account " + bankAccount.accountNumber + ".New balance : " + bankAccount.deposit(deposit));
+        System.out.println("Withdrew : " + withdraw + " from account " + bankAccount.accountNumber + ".New balance : " + bankAccount.withDraw(withdraw));
         System.out.println("Insufficient balance for withdrawal.");
         System.out.println("Account Number " + bankAccount.getAccountNumber());
         System.out.println("Account Holder : " + bankAccount.getAccountHolder());
