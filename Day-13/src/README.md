@@ -26,3 +26,4 @@ User(String name, String email){
         this(name,email,null);
     }
 ```
+3. Create object to call those user.
