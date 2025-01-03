@@ -37,6 +37,9 @@ we learn about methods condition (if-else).
 6. [Sum 3 and 5 ](./Day-03-constrol-flow/src/loop_challenge/Sum3And5.java)
 7. [Sum Odd Number](./Day-03-constrol-flow/src/loop_challenge/SumODD.java)
 
+- While loop
+
+8. [Even Number](./Day-03-constrol-flow/src/while_loop_challenge/EvenNumber.java)
 #
 
 ### [OOP Challenge](./Day-02-expression-statement/README.md)
