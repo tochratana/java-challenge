@@ -23,13 +23,20 @@ we learn about methods condition (if-else).
 #
 
 ### [Control flow](./Day-03-constrol-flow/README.md)
+
 - Switch
+
 1. [NATO phonetic alphabet](./Day-03-constrol-flow/src/challenge_switch_case/Main.java)
 2. [Week](./Day-03-constrol-flow/src/challenge_switch_case/Week.java)
 3. [Number in Word](./Day-03-constrol-flow/src/challenge_switch_case/printNumberInWord.java)
 4. [Leap Year](./Day-03-constrol-flow/src/challenge_switch_case/NumberOfDayInMonthWithLeapYear.java)
+
 - For loop
+
 5. [Prime Number](./Day-03-constrol-flow/src/loop_challenge/PrimeNumber.java)
+6. [Sum 3 and 5 ](./Day-03-constrol-flow/src/loop_challenge/Sum3And5.java)
+7. [Sum Odd Number](./Day-03-constrol-flow/src/loop_challenge/SumODD.java)
+
 #
 
 ### [OOP Challenge](./Day-02-expression-statement/README.md)
