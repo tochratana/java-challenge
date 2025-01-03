@@ -23,5 +23,10 @@ It should call the method isOdd to check if each number is odd.
 The parameter end needs to be greater than or equal to start and both start and end parameters have to be greater than 0.
 
 If those conditions are not satisfied return -1 from the method to indicate invalid input.
+## 6. Number Palindrome
+Write a method called isPalindrome with one int parameter called number.
 
+The method needs to return a boolean.
+
+It should return true if the number is a palindrome number otherwise it should return false. 
 

@@ -2,7 +2,7 @@
 
 That's my courses that I have to learn Java from [Udemy](https://www.udemy.com/), so here is a detail about course and exercises.
 
-#
+## Those are exercise that I have to complete with this course.
 
 ### [Expression and Statement](./Day-02-expression-statement/README.md)
 
@@ -40,6 +40,12 @@ we learn about methods condition (if-else).
 - While loop
 
 8. [Even Number](./Day-03-constrol-flow/src/while_loop_challenge/EvenNumber.java)
+9. [Sum Digit Number](./Day-03-constrol-flow/src/while_loop_challenge/SumDigit.java)
+10. [Number Palindrome](./Day-03-constrol-flow/src/loop_challenge/NumberPalindrome.java)
+11. [First and Last Digit Sum](./Day-03-constrol-flow/src/loop_challenge/FirstAndLastDigitSum.java)
+12. [Even Digit Sum](./Day-03-constrol-flow/src/loop_challenge/EvenDigitSum.java)
+13. [Share Digit](./Day-03-constrol-flow/src/loop_challenge/SharedDigit.java)
+
 #
 
 ### [OOP Challenge](./Day-02-expression-statement/README.md)
