@@ -1,8 +1,6 @@
 # Java
 
-That's my courses that I have to learn Java from [Udemy](https://www.udemy.com/), so here is a detail about course and exercises.
-
-## Those are exercise that I have to complete with this course.
+## Those are exercise that I have to complete.
 
 ### [Expression and Statement](./Day-02-expression-statement/README.md)
 
