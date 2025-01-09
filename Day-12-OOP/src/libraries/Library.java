@@ -43,14 +43,12 @@ class Library {
     }
 
     public void displayBooks() {
-        System.out.println("Displaying All Books:");
         for (Book book : books) {
             System.out.println(book.getDetails());
         }
     }
 
     public void displayMembers() {
-        System.out.println("Displaying All Members:");
         for (Member member : members) {
             System.out.println(member.getDetails());
         }

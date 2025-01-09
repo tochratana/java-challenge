@@ -19,7 +19,6 @@ public class Main {
         System.out.println("\nDisplaying All Members:");
         library.displayMembers();
 
-        System.out.println("\nBob borrows \"The Great Gatsby\"...");
         Member bob = library.findMemberById(2);
         Book greatGatsby = library.findBookById(1);
         if (bob != null && greatGatsby != null) {
@@ -31,8 +30,7 @@ public class Main {
 
         System.out.println("\nDisplaying All Members:");
         library.displayMembers();
-
-        System.out.println("\nBob returns \"The Great Gatsby\"...");
+        
         if (bob != null && greatGatsby != null) {
             bob.returnBook(greatGatsby);
         }
