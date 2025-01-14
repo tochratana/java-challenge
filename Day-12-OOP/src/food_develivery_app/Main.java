@@ -107,8 +107,8 @@ public class Main {
 
         // Place Order User : teacher
         Order order2 = new Order(1002);
-        order2.addItem(new FoodItem("Pizza", 12.99f, "Cheese and tomato pizza", List.of("Cheese", "Tomato", "Dough")));
-        order2.addItem(new DrinkItem("Coke", 1.99f, "Chilled soft drink", "Medium"));
+        order2.addItem(new FoodItem("Salad", 8.99f, "Fresh garden salad with vinaigrette", List.of("Lettuce", "Tomato", "Cucumber", "Vinaigrette")));
+        order2.addItem(new DrinkItem("Green Tea", 2.29f, "Hot green tea with a hint of jasmine", "Medium"));
         controllerUser_teacher.placeOrder(order2);
 
         // Show Order History User : tochratana
