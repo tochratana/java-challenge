@@ -1,9 +1,9 @@
-package food_develivery;
+package food_delivery_app.modal;
 
 import java.util.ArrayList;
 import java.util.List;
 
-class Order {
+public class Order {
     private int orderId;
     private List<MenuItem> items;
     private String status;
@@ -34,12 +34,12 @@ class Order {
         this.status = newStatus;
     }
 
-    public String getOrderDetails() {
-        StringBuilder details = new StringBuilder("Order ID: " + orderId + "\nStatus: " + status + "\nItems:\n");
+    public void displayOrderDetails() {
+        System.out.println("Order ID: " + orderId + "\nStatus: " + status);
+        System.out.println("Items:");
         for (MenuItem item : items) {
-            details.append(item.getDetails()).append("\n");
+            item.getDetails();
         }
-        details.append(String.format("Total: $%.2f", calculateTotal()));
-        return details.toString();
+        System.out.println("Total: $" + calculateTotal());
     }
 }

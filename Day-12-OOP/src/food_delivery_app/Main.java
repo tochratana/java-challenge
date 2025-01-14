@@ -1,6 +1,6 @@
-package food_develivery_app;
+package food_delivery_app;
 
-import food_develivery_app.modal.*;
+import food_delivery_app.modal.*;
 
 import java.util.ArrayList;
 import java.util.List;

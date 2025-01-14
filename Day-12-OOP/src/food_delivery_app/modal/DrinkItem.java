@@ -1,4 +1,4 @@
-package food_develivery_app.modal;
+package food_delivery_app.modal;
 
 public class DrinkItem extends MenuItem {
     private String size;

@@ -1,4 +1,4 @@
-package food_develivery;
+package food_delivery;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -18,15 +18,18 @@ class Restaurant {
     }
 
     public void viewMenu() {
-        System.out.println("Menu:");
+        System.out.println("=".repeat(20) + " Menu View " + "-".repeat(20));
         for (MenuItem item : menu) {
+            System.out.println("-".repeat(20));
             System.out.println(item.getDetails());
+
         }
     }
 
     public void processOrder(Order order) {
         order.updateStatus("Preparing");
         orders.add(order);
+        System.out.println("-".repeat(20) + " Processing order" + "-".repeat(20));
         System.out.println("Processing Order ID: " + order.getOrderDetails());
     }
 }
@@ -46,6 +49,7 @@ public class Main {
         restaurant.addToMenu(new DrinkItem("Coca Cola", 1.99f, "Chilled soft drink", "Medium"));
 
         // View menu
+
         restaurant.viewMenu();
 
         // Create user
@@ -59,6 +63,7 @@ public class Main {
         // Place order
         user.placeOrder(order);
         restaurant.processOrder(order);
+        System.out.println("-".repeat(20) + " View History " + "-".repeat(20));
 
         // View order history
         user.viewOrderHistory();

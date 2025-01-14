@@ -1,4 +1,4 @@
-package food_develivery_app.modal;
+package food_delivery_app.modal;
 
 abstract public class MenuItem {
     protected String name;

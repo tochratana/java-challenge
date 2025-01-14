@@ -1,4 +1,4 @@
-package food_develivery;
+package food_delivery;
 
 class DrinkItem extends MenuItem {
     private String size;

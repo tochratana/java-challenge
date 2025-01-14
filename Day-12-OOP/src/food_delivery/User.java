@@ -1,9 +1,9 @@
-package food_develivery_app.modal;
+package food_delivery;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class User {
+class User {
     private int userId;
     private String name;
     private List<Order> orderHistory;
@@ -19,10 +19,9 @@ public class User {
     }
 
     public void viewOrderHistory() {
-        System.out.println("Order History for User: " + name);
+        System.out.println("Order History for " + name + ":");
         for (Order order : orderHistory) {
-            order.displayOrderDetails();
-            System.out.println("------------------------");
+            System.out.println(order.getOrderDetails());
         }
     }
 }

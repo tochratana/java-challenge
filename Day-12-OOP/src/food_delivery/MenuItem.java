@@ -1,4 +1,4 @@
-package food_develivery;
+package food_delivery;
 
 abstract class MenuItem {
     protected String name;
