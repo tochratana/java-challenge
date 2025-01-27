@@ -49,6 +49,9 @@ we learn about methods condition (if-else).
 17. [Perfect Number](./Day-03-constrol-flow/src/loop_challenge/PerfectNumber.java)
 18. [Number To Word](./Day-03-constrol-flow/src/loop_challenge/NumberToWords.java)
 19. [Flour Pack Problem](./Day-03-constrol-flow/src/loop_challenge/FlourPacker.java)
+20. [InvideYearOfBirth](./Day-03-constrol-flow/src/loop_challenge/InvideYearOfBirth.java)
+21. [DiagonalStar](./Day-03-constrol-flow/src/loop_challenge/DiagonalStar.java)
+22. [LargestPrime](./Day-03-constrol-flow/src/loop_challenge/LargestPrime.java)
 
 #
 
@@ -58,4 +61,6 @@ we learn about methods condition (if-else).
 2. [Library V1](./Day-12-OOP/src/library/Main.java)
 3. [Library V2](./Day-12-OOP/src/libraries/Main.java)
 4. [Banking](./Day-13-polymorphism/src/banking/Main.java)
-5. [Food Delivery](./Day-12-OOP/src/food_delivery_app/Main.java)
+5. [Food Delivery (MVC Pattern)](./Day-12-OOP/src/food_delivery_app/Main.java)
+6. [Fodd Delivery](./Day-12-OOP/src/food_delivery/Main.java)
+7. [User Manager](./Day-12-OOP/src/user_manager/Main.java)
