@@ -52,6 +52,10 @@ we learn about methods condition (if-else).
 20. [InvideYearOfBirth](./Day-03-constrol-flow/src/loop_challenge/InvideYearOfBirth.java)
 21. [DiagonalStar](./Day-03-constrol-flow/src/loop_challenge/DiagonalStar.java)
 22. [LargestPrime](./Day-03-constrol-flow/src/loop_challenge/LargestPrime.java)
+23. [InputCalculator](./Day-03-constrol-flow/src/loop_challenge/InputCalculator.java)
+24. [MinMaxChllange](./Day-03-constrol-flow/src/loop_challenge/MinMaxChallege.java)
+25. [PainJob](./Day-03-constrol-flow/src/loop_challenge/PaintJob.java)
+26. [SumFiveNumber](./Day-03-constrol-flow/src/loop_challenge/SumFiveNumber.java)
 
 #
 
