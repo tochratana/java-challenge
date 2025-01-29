@@ -68,3 +68,5 @@ we learn about methods condition (if-else).
 5. [Food Delivery (MVC Pattern)](./Day-12-OOP/src/food_delivery_app/Main.java)
 6. [Fodd Delivery](./Day-12-OOP/src/food_delivery/Main.java)
 7. [User Manager](./Day-12-OOP/src/user_manager/Main.java)
+8. [wall](./Day-12-OOP/src/oop_challenge/wall/Main.java)
+9. [point](./Day-12-OOP/src/oop_challenge/point/Main.java)
