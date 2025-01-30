@@ -72,4 +72,4 @@ we learn about methods condition (if-else).
 7. [User Manager](./Day-12-OOP/src/user_manager/Main.java)
 8. [wall](./Day-12-OOP/src/oop_challenge/wall/Main.java)
 9. [point](./Day-12-OOP/src/oop_challenge/point/Main.java)
-10. [Food Panda](./Day-18-Food-Panda/src/com/foodpanda/FoodPandaApp.java)
+10. [Food Panda](./Day-18-Food-Panda/README.md)
